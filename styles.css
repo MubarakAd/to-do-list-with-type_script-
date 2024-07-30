@@ -1,0 +1,70 @@
+body{
+    font-family: Arial,  sans-serif;
+   
+    
+}
+#Header{
+    color: chartreuse;
+}
+h2{
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#inputtask{
+    padding: 20px 5px;
+    border-radius: 12px;
+}
+#addtask{
+    padding: 20px 20px;
+    background-color: blueviolet;
+    border-radius: 12px;
+}
+.container{
+    margin:100px auto;
+    width: 50%;
+    text-align: center;
+   
+
+}
+h1{
+    color: #333;
+}
+ul{
+    list-style-type: none;
+    background-color: cadetblue;
+    padding: 60px 0px;
+    border-radius: 10px;
+    
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    background-color: aliceblue;
+    width: 50%;
+    margin: 10px auto;
+    padding: 20px 20px;
+    border-radius: 5px;
+   
+}
+.deletebutton{
+    padding: 10px 20px;
+    border: 50%;
+    border-radius: 12px;
+    background-color: red;
+   
+}
+.update{
+    padding: 10px 20px;
+    border: 50%;
+    border-radius: 12px;
+    background-color: green;
+
+}
+.eror{
+    background-color: red;
+    margin-bottom: 5px;
+    padding: 10px 20px;
+    border: 50%;
+    border-radius: 12px;
+}
